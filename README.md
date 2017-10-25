@@ -28,3 +28,15 @@ One or more optional `key-value` pairs where `key` represents a multi-position c
 #### Examples:
 - `switch-middle` - Pickup selector switch in the middle position.
 - `tail-coiltap` - Bridge humbucker coils to be configured as coil tap.
+
+### {instrument}
+Brief description of the guitar body.
+
+#### Examples
+- `epilp` - Epiphone Les Paul
+- `giblp` - Gibson Les Paul
+
+### {file-extension}
+The file extension, such as .hlx for Helix presets.
+
+
