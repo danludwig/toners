@@ -6,7 +6,7 @@
    "application" : "Helix",
    "appversion" : 35717120,
    "build_sha" : "61d1df5",
-   "modifieddate" : 1508977128,
+   "modifieddate" : 1508977276,
    "name" : "Shine (Col Soul)"
   },
   "tone" : {
@@ -76,7 +76,7 @@
      "@position" : 1,
      "@stereo" : false,
      "@type" : 0,
-     "Pedal" : 0.988606,
+     "Pedal" : 1.0,
      "VolumeTaper" : false
     },
     "block2" : {
@@ -458,7 +458,7 @@
       "block1" : {
        "Pedal" : {
         "@fs_enabled" : false,
-        "@value" : 0.988606
+        "@value" : 1.0
        }
       },
       "block6" : {
